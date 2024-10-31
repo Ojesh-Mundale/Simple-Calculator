@@ -1,4 +1,5 @@
 # Simple Calculator
+  ![alt text](https://github.com/Ojesh-Mundale/Simple-Calculator/blob/50c99b9cca6fcfea7a9f0c2a661dd020ca14149f/calculator.png)
 
 A graphical calculator application built using Java Swing and AWT. This simple calculator can perform basic operations: addition, subtraction, multiplication, and division.
 
