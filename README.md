@@ -14,21 +14,26 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/yourusername/simple-calculator-swing.git
+
 Navigate to the project directory:
 
 bash
 Copy code
 cd simple-calculator-swing
+
 Compile the code:
 
 bash
 Copy code
 javac CalculatorGUI.java
+
 Run the application:
 
 bash
 Copy code
 java CalculatorGUI
+
+
 Usage
 The calculator GUI will open, displaying buttons for digits, operations, and a result display area.
 Click buttons to input numbers and operations.
